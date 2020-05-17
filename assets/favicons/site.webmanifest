@@ -1,0 +1,18 @@
+{
+    "name": "Cabeça Livre",
+    "short_name": "Cabeça Livre",
+    "icons": [
+        {
+            "src": "https://cabecalivre.com/assets/favicons/android-chrome-192x192.png?v=3",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cabecalivre.com/assets/favicons/android-chrome-384x384.png?v=3",
+            "sizes": "384x384",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#009688",
+    "background_color": "#009688"
+}
