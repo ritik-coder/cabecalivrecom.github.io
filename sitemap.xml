@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://cabecalivre.com/2015/08/25/welcome-to-jekyll/</loc>
-<lastmod>2020-05-17T14:37:25-03:00</lastmod>
+<loc>https://cabecalivre.com/2020/05/17/covid-19-o-sensacionalismo-da-midia/</loc>
+<lastmod>2020-05-17T21:49:44-03:00</lastmod>
+</url>
+<url>
+<loc>https://cabecalivre.com/2020/05/17/covid-19-sera-que-tem-relacao-com-infarto-e-avc/</loc>
+<lastmod>2020-05-17T21:49:44-03:00</lastmod>
+</url>
+<url>
+<loc>https://cabecalivre.com/2020/05/17/covid-19-isolamento-mais-rigido-nao-reduz-obitos/</loc>
+<lastmod>2020-05-17T21:49:44-03:00</lastmod>
 </url>
 <url>
 <loc>https://cabecalivre.com/about/</loc>
@@ -13,12 +21,12 @@
 <lastmod>2020-05-17T11:59:38-03:00</lastmod>
 </url>
 <url>
-<loc>https://cabecalivre.com/2015/</loc>
+<loc>https://cabecalivre.com/2020/</loc>
 </url>
 <url>
-<loc>https://cabecalivre.com/2015/08/</loc>
+<loc>https://cabecalivre.com/2020/05/</loc>
 </url>
 <url>
-<loc>https://cabecalivre.com/2015/08/25/</loc>
+<loc>https://cabecalivre.com/2020/05/17/</loc>
 </url>
 </urlset>
