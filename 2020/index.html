@@ -92,9 +92,6 @@
     
 
     
-        <!-- Google AdSense -->
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    
 
     
         <!-- AddThis -->
@@ -359,18 +356,6 @@
                     </a>
                 </div>
             </div><!-- .row -->
-
-            
-                
-    <!-- Google AdSense -->
-    <ins class="adsbygoogle" id="content_ad_unit_1"
-        style="display:block"
-        data-ad-client="ca-pub-5193467168351289"
-        data-ad-slot="7049989586"
-        data-ad-format="auto"
-        data-full-width-responsive="true"></ins>
-    <!-- End Google AdSense -->
-
 
             
 
@@ -903,22 +888,6 @@
 </div><!-- .card -->
 
 
-    <div class="card mb-3">
-        <div class="card-body">
-            
-    <!-- Google AdSense -->
-    <ins class="adsbygoogle" id="sidebar_ad_unit"
-        style="display:block"
-        data-ad-client="ca-pub-5193467168351289"
-        data-ad-slot="9924113677"
-        data-ad-format="auto"
-        data-full-width-responsive="true"></ins>
-    <!-- End Google AdSense -->
-
-
-        </div><!-- .col-xs-12 -->
-    </div><!-- .row -->
-
 
                     </div>
                 </div>
@@ -951,62 +920,6 @@
     <!-- Disqus End -->
 
 
-
-    <!-- Google AdSense -->
-    
-        
-    <!-- Google AdSense -->
-    <ins class="adsbygoogle" id="content_ad_unit_2"
-        style="display:block"
-        data-ad-client="ca-pub-5193467168351289"
-        data-ad-slot="3973782995"
-        data-ad-format="auto"
-        data-full-width-responsive="true"></ins>
-    <!-- End Google AdSense -->
-
-
-    
-
-    <script type="text/javascript">
-        adsbygoogle = window.adsbygoogle || [];
-
-        $(document).ready(function(){
-            
-                var $ad = $('#content_ad_unit_2');
-                var $posts = $('.blog-post');
-                if (($posts.length > 1) || ($('.blog-archive-title').length > 0)) {
-                    // Post listing
-                    var post;
-                    if ($posts.length > 2) {
-                        post = random_number(2, $posts.length);
-                    } else {
-                        post = 2;
-                    }
-                    $posts.eq(post - 1).find('.blog-post-content .row').after($ad);
-                } else {
-                    // Page or post
-                    var $paragraphs = $('.blog-post-content p').filter(function() {
-                        return ($(this).closest('.no-ads-here').length == 0);
-                    });
-                    if ($paragraphs.length > 0) {
-                        var paragraph;
-                        if ($paragraphs.length > 1) {
-                            paragraph = random_number(1, $paragraphs.length);
-                        } else {
-                            paragraph = 1;
-                        }
-                        $paragraphs.eq(paragraph - 1).after($ad);
-                    } else {
-                        $ad.remove();
-                    }
-                }
-            
-            $('.adsbygoogle').each(function(index, element){
-                adsbygoogle.push({});
-            });
-        });
-    </script>
-    <!-- Google AdSense End -->
 
 
 
