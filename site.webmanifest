@@ -3,7 +3,7 @@
     "short_name": "Cabeça Livre",
     "icons": [
         {
-            "src": "https://cabecalivre.com/android-chrome-192x192.png?v=2",
+            "src": "http://0.0.0.0:4000/android-chrome-192x192.png?v=2",
             "sizes": "192x192",
             "type": "image/png"
         }
